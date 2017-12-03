@@ -1,5 +1,5 @@
 # Crimes in Vancouver
-This is a Jupyter Notebook exploring the crimes in Vancouver from the years 2003 - 2018 for my Data Science Project at BrainStation, using python.
+This is a Jupyter Notebook exploring the crimes in Vancouver from the years 2003 - 2017 for my Data Science Project at BrainStation, using python.
 
 The purpose of this analysis is to answer three questions:
 1. What is the most common crime in Vancouver ?
