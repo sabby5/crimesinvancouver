@@ -8,3 +8,5 @@ The purpose of this analysis is to answer three questions:
 4. Which days of the week, do we experience the most crimes?
 
 Click the link to view the analysis https://github.com/saudatatta/crimesinvancouver/blob/master/DATA%20SCIENCE%20PROJECT.ipynb
+
+Data Source: City of Vancouver, via Kaggle
